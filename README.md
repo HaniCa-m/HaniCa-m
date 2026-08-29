@@ -6,11 +6,8 @@ I combine development, SEO, and AI-assisted workflows to turn ideas into polishe
 
 ### What I Do
 
-💻 **Frontend Development**
-🔎 **SEO & Web Optimization**
-🤖 **AI-assisted Development & Vibe Coding**
-🎨 **Responsive UI Implementation**
-💼 **Freelance Web Projects**
+💻 **Frontend Development** · 🔎 **SEO & Web Optimization** · 🤖 **AI-assisted Development & Vibe Coding** · 
+🎨 **Responsive UI Implementation** · 💼 **Freelance Web Projects**
 
 ### Tech Stack
 
@@ -20,7 +17,7 @@ I combine development, SEO, and AI-assisted workflows to turn ideas into polishe
 
 ### How I Work
 
-I learn by building — solving real problems through hands-on projects and using AI throughout my workflow, from planning and debugging to implementation and iteration.
+I learn by building, solving real problems through hands-on projects and using AI throughout my workflow, from planning and debugging to implementation and iteration.
 
 I enjoy the flexibility of **vibe coding** while keeping the process hands-on, and I like bringing creativity, storytelling, and imagination into digital experiences.
 
