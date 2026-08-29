@@ -1,47 +1,31 @@
 # Hi, I'm Hani 👋
 
-I'm a frontend-focused Web Developer & SEO Engineer who enjoys turning ideas into modern, responsive, and search-friendly web experiences.
+**Frontend-focused Web Developer & SEO Engineer** building modern, responsive, and search-friendly web experiences.
 
-I work across web development, SEO, and AI-assisted workflows, combining technical problem-solving with creativity, storytelling, and visual thinking.
+I combine development, SEO, and AI-assisted workflows to turn ideas into polished digital products — with a focus on creativity, problem-solving, and hands-on building.
 
 ### What I Do
 
-- 💻 Frontend Development
-- 🔎 SEO & Web Optimization
-- 🎨 Responsive UI Implementation
-- 🤖 AI-assisted Development & Vibe Coding
-- 💼 Freelance Web Projects
+💻 **Frontend Development**
+🔎 **SEO & Web Optimization**
+🤖 **AI-assisted Development & Vibe Coding**
+🎨 **Responsive UI Implementation**
+💼 **Freelance Web Projects**
 
 ### Tech Stack
 
-**Frontend**
-
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Bootstrap
-
-**SEO**
-
-Technical SEO · On-page SEO · Keyword Research · Content SEO · Internal Linking · Core Web Vitals · Performance Optimization · Search Console · Google Analytics
-
-**Backend & Web**
-
-Node.js · PHP · Laravel · SQL · Databases · WordPress
-
-**Tools & Workflow**
-
-Git · GitHub · VS Code · npm · Vite
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,php,laravel,wordpress,git,github,vscode,vite" />
+</p>
 
 ### How I Work
 
-I learn by building — turning ideas into projects, solving problems along the way, and continuously learning through hands-on development.
+I learn by building — solving real problems through hands-on projects and using AI throughout my workflow, from planning and debugging to implementation and iteration.
 
-I use AI as part of my development workflow for planning, problem-solving, debugging, implementation, and iteration. I enjoy the flexibility of vibe coding while keeping the development process hands-on and reviewing the results myself.
+I enjoy the flexibility of **vibe coding** while keeping the process hands-on, and I like bringing creativity, storytelling, and imagination into digital experiences.
 
-### A Little More About Me
-
-I enjoy bringing creativity, storytelling, and imagination into digital experiences — especially when a project needs more than just clean code.
-
-I work with both Persian and international web projects and enjoy turning ideas into complete, practical, and polished products.
+Based in Iran 🇮🇷 · Open to Persian & international web projects.
 
 ### Let's Connect
 
-📧 **hxmaleki@gmail.com**
+📧 **[hxmaleki@gmail.com](mailto:hxmaleki@gmail.com)**
