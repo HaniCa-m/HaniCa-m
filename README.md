@@ -6,7 +6,7 @@ I combine development, SEO, and AI-assisted workflows to turn ideas into polishe
 
 ### What I Do
 
-💻 **Frontend Development** · 🔎 **SEO & Web Optimization** · 🤖 **AI-assisted Development & Vibe Coding** · 
+💻 **Frontend Development** · 🔎 **SEO & Web Optimization** · 🤖 **AI-assisted Development** · 
 🎨 **Responsive UI Implementation** · 💼 **Freelance Web Projects**
 
 ### Tech Stack
